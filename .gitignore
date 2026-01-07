@@ -1,0 +1,21 @@
+# Folders
+.gradle/
+build/
+captures/
+.idea/
+
+# Files
+*.iml
+local.properties
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services file
+google-services.json
+
+# Crashlytics files
+crashlytics.properties
+crashlytics-build.properties
